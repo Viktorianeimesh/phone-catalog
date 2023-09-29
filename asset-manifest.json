@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "./static/css/main.03e6c356.chunk.css",
+    "main.js": "./static/js/main.fae38d39.chunk.js",
+    "main.js.map": "./static/js/main.fae38d39.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.8c9895b1.js",
+    "runtime-main.js.map": "./static/js/runtime-main.8c9895b1.js.map",
+    "static/js/2.62d81948.chunk.js": "./static/js/2.62d81948.chunk.js",
+    "static/js/2.62d81948.chunk.js.map": "./static/js/2.62d81948.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.03e6c356.chunk.css.map": "./static/css/main.03e6c356.chunk.css.map",
+    "static/js/2.62d81948.chunk.js.LICENSE.txt": "./static/js/2.62d81948.chunk.js.LICENSE.txt",
+    "static/media/Home.e110292a.svg": "./static/media/Home.e110292a.svg",
+    "static/media/Minus.cce48622.svg": "./static/media/Minus.cce48622.svg",
+    "static/media/App.scss": "./static/media/Mont-SemiBold.0b5e68eb.ttf",
+    "static/media/Phones.a00f2a53.jpg": "./static/media/Phones.a00f2a53.jpg",
+    "static/media/Plus.dea15724.svg": "./static/media/Plus.dea15724.svg",
+    "static/media/SearchInput.scss": "./static/media/Search.eb670dd9.svg",
+    "static/media/Union.7db15e55.svg": "./static/media/Union.7db15e55.svg",
+    "static/media/accessories.fcfc0e03.jpg": "./static/media/accessories.fcfc0e03.jpg",
+    "static/media/banner-accessories.bdd2e0fc.png": "./static/media/banner-accessories.bdd2e0fc.png",
+    "static/media/banner-phones.b4eeda8b.png": "./static/media/banner-phones.b4eeda8b.png",
+    "static/media/banner-tablets.a962057c.png": "./static/media/banner-tablets.a962057c.png",
+    "static/media/buttonToNext.0ae25fa6.svg": "./static/media/buttonToNext.0ae25fa6.svg",
+    "static/media/buttonToPrevious.4031aa77.svg": "./static/media/buttonToPrevious.4031aa77.svg",
+    "static/media/cart.1962e424.svg": "./static/media/cart.1962e424.svg",
+    "static/media/cart.d2cfbd3e.png": "./static/media/cart.d2cfbd3e.png",
+    "static/media/comingSoon.2965ee01.png": "./static/media/comingSoon.2965ee01.png",
+    "static/media/error-message.6aad8412.png": "./static/media/error-message.6aad8412.png",
+    "static/media/favourites.a650e0a1.svg": "./static/media/favourites.a650e0a1.svg",
+    "static/media/footer_button.cd0d2be9.svg": "./static/media/footer_button.cd0d2be9.svg",
+    "static/media/icon-right-for-nav.f3e02e62.svg": "./static/media/icon-right-for-nav.f3e02e62.svg",
+    "static/media/logo.c9417692.svg": "./static/media/logo.c9417692.svg",
+    "static/media/not-found.ecca410e.png": "./static/media/not-found.ecca410e.png",
+    "static/media/tablets.d9570974.jpg": "./static/media/tablets.d9570974.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c9895b1.js",
+    "static/js/2.62d81948.chunk.js",
+    "static/css/main.03e6c356.chunk.css",
+    "static/js/main.fae38d39.chunk.js"
+  ]
+}
